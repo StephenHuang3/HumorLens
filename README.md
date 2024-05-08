@@ -1,6 +1,6 @@
 # HumorLens
 
-Explains the humor in The New Yorker comics. Intended to run in a Google Colab notebook or cloud instance.
+Uses CNN and transformers to explains the humor in The New Yorker comics. Intended to run in a Google Colab notebook or cloud instance.
 
 ## Setup
 
